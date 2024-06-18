@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kim\\Desktop\\3dROd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3dROd\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3dROd\\assets\\script\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|c:\\users\\kim\\desktop\\3drod\\assets\\script\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3dROd\\assets\\script\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3dROd\\assets\\script\\maincamera_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\maincamera_action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|C:\\Users\\kim\\Desktop\\3dROd\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BABF2D5-079D-1066-E494-5670199B2B51}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainCamera_Action.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\MainCamera_Action.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainCamera_Action.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\MainCamera_Action.cs",
+              "RelativeToolTip": "Assets\\Script\\MainCamera_Action.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:40:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:34:22.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:33:14.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Script\\ObjectPool.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:54:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Car.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\Car.cs",
+              "RelativeToolTip": "Assets\\Script\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:18:25.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Road.cs",
+              "DocumentMoniker": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\Road.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Road.cs",
+              "ToolTip": "C:\\Users\\kim\\Desktop\\3dROd\\Assets\\Script\\Road.cs",
+              "RelativeToolTip": "Assets\\Script\\Road.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:17:25.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
