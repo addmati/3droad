@@ -366,8 +366,8 @@
 "Assets/Script/CharacterManager.cs"
 "Assets/Script/MainCamera_Action.cs"
 "Assets/Script/ObjectPool.cs"
+"Assets/Script/pCon.cs"
 "Assets/Script/Player.cs"
-"Assets/Script/PlayerController.cs"
 "Assets/Script/Road.cs"
 -langversion:9.0
 
